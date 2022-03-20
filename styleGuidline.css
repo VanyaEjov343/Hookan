@@ -1,0 +1,239 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.main{
+  width: 1449px;
+height: 837px;
+background: #30333B;
+position: relative;
+left: 0px;
+top: 0px;
+margin: 0 auto;
+}
+
+.shrifts{
+  font-family: Merriweather;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 50px;
+color: #E3E5EA;
+  text-decoration: none;
+  position: absolute;
+
+
+}
+.Merriweather{
+  font-family: Merriweather;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 35px;
+  text-decoration: none;
+  color: #A9ACB6;
+}
+.Montserrat{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 34px;
+  color: #A9ACB6;
+text-decoration: none;
+
+}
+p{
+  font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 28px;
+}
+.box1{
+  position:absolute;
+  left: 92px;
+  top: 136px;
+}
+.box2{
+  position: absolute;
+
+left: 92px;
+top: 245px;
+}
+.box3{
+  position: absolute;
+  left: 92px;
+  top: 365px;
+}
+.box4{
+
+  position: absolute;
+
+  left: 92px;
+  top: 483px;
+
+}
+img{
+position: absolute;
+left: 405px;
+top: 6px;
+
+}
+.Montserrat_1{
+  font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 27px;
+color: #E3E5EA;
+text-decoration: none;
+position: absolute;
+width: 450px;
+height: 53px;
+left: 92px;
+top: 643px;
+}
+.Montserrat_1>img{
+  position: absolute;
+  left: -20px;
+  top: 7px;
+
+}
+.social{
+  font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 21px;
+text-decoration: none;
+color: #C8CDD8;
+position: absolute;
+left: 724px;
+top: 136px;
+}
+.picture{
+  position: absolute;
+width: 99.38px;
+height: 16px;
+left: 0px;
+top: 0px;
+}
+.vk{
+  position: absolute;
+left: 50.1%;
+right: 48.6%;
+top: 19.83%;
+bottom: 78.85%;
+
+}
+.inst{
+  position: absolute;
+  left: 53.4%;
+  right: 45.56%;
+  top: 19.47%;
+  bottom: 78.61%;
+}
+.facebook{
+  position: absolute;
+left: 56.44%;
+right: 43.04%;
+top: 19.47%;
+bottom: 78.61%;
+}
+.hover2{
+  width: 612px;
+  height: 22px;
+  z-index: 1;
+  position: absolute;
+left: 725px;
+top: 265px;
+background: #30333B;
+display: flex;
+justify-content: space-between;
+
+}
+.hover2_box{
+  font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 21px;
+text-decoration: none;
+color: #FFFFFF;
+}
+.hover2_1{
+position: absolute;
+left: 725px;
+top: 239px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 21px;
+text-decoration: none;
+color: #C8CDD8;
+}
+.hover2_2{
+  position: absolute;
+left: 874px;
+top: 352px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 21px;
+color: #C8CDD8;
+text-decoration: none;
+}
+.but1{
+  position: absolute;
+width: 139px;
+height: 61px;
+left: 726px;
+top: 382px;
+
+}
+.but2{
+  position: absolute;
+width: 139px;
+height: 61px;
+left: 875px;
+top: 382px;
+}
+.hover3{
+  position: absolute;
+  width: 772px;
+  height: 180px;
+  left: 677px;
+  top: 503px;
+background: #E3E5EA;
+
+}
+.hover3_1{
+position: absolute;
+left: 236px;
+top: 31px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 21px;
+color: #585E67;
+text-decoration: none;
+}
+.but1_2{
+  position: absolute;
+  width: 180px;
+  height: 60px;
+  left: 47px;
+  top: 61px;
+  background-image: url(Facebook_1.svg);
+}
+.but1_3{
+  position: absolute;
+width: 180px;
+height: 60px;
+left: 237px;
+top: 61px;
+background-image: url(Facebook_2.svg);
+}
